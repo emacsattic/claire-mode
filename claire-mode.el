@@ -2,6 +2,8 @@
 
 ;; last update 15/10/2003 [dd/mm/yyyy]
 
+;; License: public-domain
+
 ;; claire-mode.el is free software use at your own risk
 
 ;;; Commentary:
